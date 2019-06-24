@@ -45,7 +45,7 @@ Build a DApp that anybody can use. Your parents, your highschool history teacher
 
 Most DApps today provide some sort of "user guide" due to the complexity of onboarding and interacting with them. We think that's unacceptable. There are no instructions on how to use Instagram or Uber.
 
-We will be looking for DApps created in the Hackathon that have taken our vision to heart. That have decided to utilize the frictionless experience provided by Portis to build a DApp with the mainstream crowd in mind. The winner will walk away with a cool 3 ETH.
+We will be looking for DApps created in the Hackathon that have taken our vision to heart. That have decided to utilize the frictionless experience provided by Portis to build a DApp with the mainstream crowd in mind. **The winner will walk away with a cool 3 ETH.**
 
 ---
 
